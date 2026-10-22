@@ -1,0 +1,12 @@
+# 答引
+
+> 答引提供 AI 可见性报告，定期探测多家 AI 引擎，统计品牌提及率、引用率、排名及竞品提及情况，第一轮探测不收费。
+
+官网：https://www.anscite.com/
+
+## 页面
+
+- [AI 可见性报告 - 答引](https://report.anscite.com/): 答引提供 AI 可见性报告，定期探测多家 AI 引擎，统计品牌提及率、引用率、排名及竞品提及情况，第一轮探测不收费。
+- [关于我们 · 答引](https://report.anscite.com/about/): 答引专注于 AI 可见性报告，帮助品牌出现在 AI 的回答里，提供定期探测与可复查的数据表。
+- [常见问题 · 答引](https://report.anscite.com/faq/): 答引提供 AI 可见性报告，定期探测多家 AI 引擎，统计品牌提及率、引用率、排名及竞品提及情况，第一轮探测不收费。
+- [联系我们 · 答引](https://report.anscite.com/contact/): 联系答引，获取 AI 可见性报告，第一轮探测不收费。邮箱：biz@anscite.com。
