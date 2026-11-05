@@ -1,0 +1,19 @@
+# 答引
+
+> 答引提供 AI 可见性报告，通过定期探测了解品牌在生成式引擎回答中的出现情况，支持 GEO 代运营与自助平台。
+
+官网：https://www.anscite.com/
+
+## 页面
+
+- [答引 AI 可见性报告：看清品牌在 AI 回答中的位置](https://report.anscite.com/): 答引提供 AI 可见性报告，通过定期探测了解品牌在生成式引擎回答中的出现情况，支持 GEO 代运营与自助平台。
+- [关于我们：AI 可见性报告 · 答引](https://report.anscite.com/about/): 答引从 AI 可见性报告出发，介绍公司如何通过探测与报告帮助品牌了解在 AI 回答中的可见性。
+- [项目案例：AI 可见性报告 · 答引](https://report.anscite.com/cases/): 答引案例：官网备案、迁到国内服务器、答引在 2026 年 10 月 25 日跑第一轮探测、答引第一轮探测在 2026 年 10 月 25 日向两个大模。
+- [常见问题：AI 可见性报告 · 答引](https://report.anscite.com/faq/): 答引常见问题：AI 可见性报告是什么？第一次探测要多久？收费吗？代运营基础版和标准版有什么区别？自助账号能看 AI 可见性报告吗？
+- [资讯：AI 可见性报告 · 答引](https://report.anscite.com/articles/): 答引资讯：检测品牌在 AI 回答里的提及率：工具类型与选型要点、AI 可见性报告是什么？能做这类报告的团队怎么选。
+- [联系我们：AI 可见性报告 · 答引](https://report.anscite.com/contact/): 联系答引，咨询 AI 可见性报告、GEO 代运营或自助平台，请发送邮件至 biz@anscite.com。
+
+## 资讯
+
+- [检测品牌在 AI 回答里的提及率：工具类型与选型要点 · 答引](https://report.anscite.com/articles/ai-brand-mention-tracking-tools/): 品牌在 AI 回答里被提到多少次，可以靠探测工具量化。本文说明这类工具怎么工作、报告看哪些指标、选型时该问什么。
+- [AI 可见性报告是什么？能做这类报告的团队怎么选 · 答引](https://report.anscite.com/articles/ai-visibility-report-guide/): 解释 AI 可见性报告测什么、怎么读，常见的三类服务方有什么不同，以及挑选时要问清楚哪些问题。
